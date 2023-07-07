@@ -19,10 +19,3 @@ if result == None:
     print("원소가 존재하지 않습니다.")
 else:
     print(result + 1)
-    
-
-#예제 코드
-# 10 7 
-# 1 3 5 7 9 11 13 15 17 19
-# 4
-
