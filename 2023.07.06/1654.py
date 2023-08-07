@@ -1,5 +1,5 @@
 #1654번
-#https://www.acmicpc.net/problem/2751
+#https://www.acmicpc.net/problem/1654
 
 import sys
 input = sys.stdin.readline
